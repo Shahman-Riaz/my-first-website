@@ -59,8 +59,9 @@ img {
     cursor: pointer;
     margin: auto;
   transition: ease 2s all;
-    
+  
 }
 img:hover {
     transform: scale(1.1, 1.1);
+    
 }
